@@ -5,7 +5,14 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
     <title>Pizza Bar</title>
+    <style>
+        h1 {
+            background-color: green;
+            border: 3px solid purple;
+        }
+    </style>
 </head>
 
 <body>
@@ -14,6 +21,9 @@
             <h1>
                 Order Pizza
             </h1>
+            <h2>
+                Pizz form
+            </h2>
         </div>
         <div style="background-color: red; ">
             <img height="200"
@@ -21,14 +31,15 @@
                 alt="">
             <form action="https://www.prego.co.il/events/" method="get">
                 <div>
-                    <span> Pizza Type </span> <input type="text" name="pizza-type" value="napolitana">
+                    <span id="pizzaTypeIdIsTheBest"> Pizza Type </span> <input type="text" name="pizza-type"
+                        value="napolitana">
                 </div>
                 <div>
                     <div>
-                        <span> Toppings </span>
+                        <span id="pizzaToppings"> Toppings </span>
                     </div>
                     <div>
-                        <span> olives </span> <input name="olives" type="checkbox" value="true">
+                        <span> olives </span> <input name="olives" type="checkbox" checked="checked" value="true">
                         <span> extra </span> <input name="extra" type="checkbox" value="true">
                         <span> mushrooms </span> <input name="mushrooms" type="checkbox" value="true">
                         <span> tuna </span> <input name="tuna" type="checkbox" value="true">
@@ -50,7 +61,7 @@
         </div>
     </div>
     <div>
-        <h1>
+        <h1 style="background-color: green; border: 3px solid purple;">
             Orders history
         </h1>
         <table>
