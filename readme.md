@@ -16,3 +16,8 @@ https://www.imdb.com/?ref_=nv_home
 1. inline - using style attribute
 2. internal - using style tag 
 3. external - using *.css file 
+
+
+# Homework 4/2 
+- finish watch all the css+html online course
+- repeat on the current class
