@@ -10,6 +10,46 @@
 
 <body>
     <div>
+        <div>
+            <h1>
+                Order Pizza
+            </h1>
+        </div>
+        <div style="background-color: red; ">
+            <img height="200"
+                src="https://www.creativefabrica.com/wp-content/uploads/2022/04/17/Pizza-Logo-Design-Graphics-29132095-1.jpg"
+                alt="">
+            <form action="https://www.prego.co.il/events/" method="get">
+                <div>
+                    <span> Pizza Type </span> <input type="text" name="pizza-type" value="napolitana">
+                </div>
+                <div>
+                    <div>
+                        <span> Toppings </span>
+                    </div>
+                    <div>
+                        <span> olives </span> <input name="olives" type="checkbox" value="true">
+                        <span> extra </span> <input name="extra" type="checkbox" value="true">
+                        <span> mushrooms </span> <input name="mushrooms" type="checkbox" value="true">
+                        <span> tuna </span> <input name="tuna" type="checkbox" value="true">
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <span> size </span>
+                        <span> Small </span><input name="size" type="radio" value="s">
+                        <span> Medium </span><input name="size" type="radio" value="m">
+                        <span> Large </span><input name="size" type="radio" value="l">
+                    </div>
+                </div>
+                <div>
+                    <input type="button" value="Click me">
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
         <h1>
             Orders history
         </h1>
@@ -50,7 +90,6 @@
             </tbody>
         </table>
     </div>
-
 </body>
 
 </html>
