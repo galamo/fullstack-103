@@ -29,16 +29,16 @@
             <img height="200"
                 src="https://www.creativefabrica.com/wp-content/uploads/2022/04/17/Pizza-Logo-Design-Graphics-29132095-1.jpg"
                 alt="">
-            <form action="https://www.prego.co.il/events/" method="get">
+            <form class="center" action="https://www.prego.co.il/events/" method="get">
                 <div>
-                    <span id="pizzaTypeIdIsTheBest"> Pizza Type </span> <input type="text" name="pizza-type"
-                        value="napolitana">
+                    <span id="pizzaTypeIdIsTheBest"> Pizza Type </span>
+                    <input class="pizzaType" type="text" name="pizza-type" value="napolitana">
                 </div>
                 <div>
                     <div>
                         <span id="pizzaToppings"> Toppings </span>
                     </div>
-                    <div>
+                    <div class="pizzaTopings">
                         <span> olives </span> <input name="olives" type="checkbox" checked="checked" value="true">
                         <span> extra </span> <input name="extra" type="checkbox" value="true">
                         <span> mushrooms </span> <input name="mushrooms" type="checkbox" value="true">
@@ -49,13 +49,15 @@
                 <div>
                     <div>
                         <span> size </span>
-                        <span> Small </span><input name="size" type="radio" value="s">
-                        <span> Medium </span><input name="size" type="radio" value="m">
-                        <span> Large </span><input name="size" type="radio" value="l">
+                        <span class="pizzaSize">
+                            <span> Small </span><input name="size" type="radio" value="s">
+                            <span> Medium </span><input name="size" type="radio" value="m">
+                            <span> Large </span><input name="size" type="radio" value="l">
+                        </span>
                     </div>
                 </div>
                 <div>
-                    <input type="submit" value="Click me">
+                    <input type="submit" value="Click me" class="submitush">
                 </div>
             </form>
         </div>

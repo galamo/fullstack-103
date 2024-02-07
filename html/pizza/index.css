@@ -20,6 +20,33 @@ h1.pizzaHeaderClass {
     margin-bottom: 50px;
 }
 
+.center {
+    margin: auto;
+    width: 450px
+}
+
+.pizzaType {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.pizzaTopings {
+    margin-top: 10px;
+    margin-left: 121px;
+}
+
+.pizzaSize {
+    margin-top: 10px;
+    margin-left: 94px;
+}
+
+.submitush {
+    margin-top: 10px;
+    margin-left: 121px
+}
+
+
+
 
 /* body (selector) { (declaration)
     background-color: pink;
