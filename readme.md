@@ -21,3 +21,10 @@ https://www.imdb.com/?ref_=nv_home
 # Homework 4/2 
 - finish watch all the css+html online course
 - repeat on the current class
+
+
+# 7/2
+
+## Ex 1
+1. Center the pizza form.
+2. align the inputs location in the same column/line under the input text 
