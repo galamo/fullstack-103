@@ -25,6 +25,13 @@ https://www.imdb.com/?ref_=nv_home
 
 # 7/2
 
+- CSS properties
+- padding
+- margin
+- border
+- box model
+- 
+
 ## Ex 1
 1. Center the pizza form.
 2. align the inputs location in the same column/line under the input text 
