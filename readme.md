@@ -30,8 +30,10 @@ https://www.imdb.com/?ref_=nv_home
 - margin
 - border
 - box model
-- 
+- display ( block, inline-block, inline)
 
 ## Ex 1
 1. Center the pizza form.
 2. align the inputs location in the same column/line under the input text 
+
+
