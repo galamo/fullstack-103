@@ -45,3 +45,8 @@ https://www.imdb.com/?ref_=nv_home
 4. p - with short description about you.
 5. for each one of your jobs , create an h2 header with p that will describe what have you done in the relevant position
 6. at the bottom of the CV add a small header h3 and p with the relevant languages you familiar with and a score that represent your level
+
+
+# Homework 11/2
+- Try to design a bookking site ( first half page )
+- site: https://www.booking.com/index.en-gb.html?aid=2311236;label=en-il-booking-desktop-fXT_x3_twsfMq1USJ5Oy*QS652796016630:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-1427504755:lp1008006:li:dec:dm;ws=&gad_source=1&gclid=EAIaIQobChMI78mK2IKkhAMVxKuDBx14uAJ0EAAYASAAEgLvmvD_BwE
