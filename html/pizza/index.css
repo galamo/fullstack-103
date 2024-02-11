@@ -28,6 +28,7 @@ h1.pizzaHeaderClass {
     padding: 12px;
 }
 
+
 .pizzaType {
     background-color: greenyellow;
     margin-top: 10px;
@@ -49,8 +50,14 @@ h1.pizzaHeaderClass {
 .submitush {
     background-color: red;
     margin-top: 10px;
-    margin-left: 121px
+    margin-left: 121px;
+    opacity: 0.7;
 }
+
+.submitush:hover {
+    opacity: 1;
+}
+
 
 .pizzaHistoryTable img {
     /* padding: 10px; */
