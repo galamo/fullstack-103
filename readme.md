@@ -37,3 +37,11 @@ https://www.imdb.com/?ref_=nv_home
 2. align the inputs location in the same column/line under the input text 
 
 
+
+# Homework 7/2
+1. Create New Html Page that describe your CV.
+2. Header - with your name ( use text alignment to center the header )
+3. Image - center the image under the header
+4. p - with short description about you.
+5. for each one of your jobs , create an h2 header with p that will describe what have you done in the relevant position
+6. at the bottom of the CV add a small header h3 and p with the relevant languages you familiar with and a score that represent your level
