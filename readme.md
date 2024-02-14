@@ -60,3 +60,7 @@ https://www.imdb.com/?ref_=nv_home
 1. create you own album by flex
 2. insert 5 images into your HTML
 3. order the items in one line with flex wrap
+
+# Homework 14-02
+- https://www.mako.co.il/
+- design the following layout using flexbox
