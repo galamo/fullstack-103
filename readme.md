@@ -55,3 +55,8 @@ https://www.imdb.com/?ref_=nv_home
 # Ex Embed CSS
 1. https://getcssscan.com/css-buttons-examples
 2. select a button and use the relevant css and HTML in your site
+
+# EX 2 flex 
+1. create you own album by flex
+2. insert 5 images into your HTML
+3. order the items in one line with flex wrap
