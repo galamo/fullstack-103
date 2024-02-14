@@ -50,3 +50,8 @@ https://www.imdb.com/?ref_=nv_home
 # Homework 11/2
 - Try to design a booking site ( first half page )
 - site: https://www.booking.com/index.en-gb.html?aid=2311236;label=en-il-booking-desktop-fXT_x3_twsfMq1USJ5Oy*QS652796016630:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-1427504755:lp1008006:li:dec:dm;ws=&gad_source=1&gclid=EAIaIQobChMI78mK2IKkhAMVxKuDBx14uAJ0EAAYASAAEgLvmvD_BwE
+
+
+# Ex Embed CSS
+1. https://getcssscan.com/css-buttons-examples
+2. select a button and use the relevant css and HTML in your site
