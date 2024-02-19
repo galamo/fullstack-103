@@ -64,3 +64,19 @@ https://www.imdb.com/?ref_=nv_home
 # Homework 14-02
 - https://www.mako.co.il/
 - design the following layout using flexbox
+
+
+# Homework 18-02
+- Open new folder name - shoppingMall
+- Create the relevant html and css files ( index.html, index.css, bootstrap.css ) - load bootstrap locally
+- Dont forget to load the JS files according to bootstrap docs site
+- shoppingMall will contain the following elements from bootstrap / native elements: 
+    1. Header - your shopping mall name
+    2. Accordion with 4 stores about your mall, make sure to add description for each store when clicking on the accordion
+    3. button - pay now - primary ( class )
+    4. button - clear cart - danger ( class )
+    5. button - get more info - info ( class )
+    6. Table with 2 products from each store ( total 8 rows )
+    7. each table row should contain product name, price, description, image
+    8. make sure all your content is centered.
+    9. feel free to come with deisgn idea from your own.
