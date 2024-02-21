@@ -86,6 +86,11 @@ https://www.imdb.com/?ref_=nv_home
 # Bootstrap - EX-1
 1. Add a responsive page that includes 3 images + 3 headers
 2. header + image should be in the same column
-3. Container => Row => header-image|header-image|header-image
+3. container => Row => header-image|header-image|header-image
 4. large screen will show 3 images in a row
-5. small screen 1 image in a row
+5. small screen 1 image in a row CoNtAiNeR
+
+
+# Bootstrap - EX-2
+1. go to the following site https://www.sport5.co.il/
+2. try to build the layout ( without header) with bootstrap
