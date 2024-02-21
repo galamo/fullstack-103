@@ -80,3 +80,12 @@ https://www.imdb.com/?ref_=nv_home
     7. each table row should contain product name, price, description, image
     8. make sure all your content is centered.
     9. feel free to come with deisgn idea from your own.
+
+
+
+# Bootstrap - EX-1
+1. Add a responsive page that includes 3 images + 3 headers
+2. header + image should be in the same column
+3. Container => Row => header-image|header-image|header-image
+4. large screen will show 3 images in a row
+5. small screen 1 image in a row
