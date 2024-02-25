@@ -94,3 +94,5 @@ https://www.imdb.com/?ref_=nv_home
 # Bootstrap - EX-2
 1. go to the following site https://www.sport5.co.il/
 2. try to build the layout ( without header) with bootstrap
+
+# Git class
